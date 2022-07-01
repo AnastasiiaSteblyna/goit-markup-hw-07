@@ -35,15 +35,3 @@ img {
   padding-right: 15px;
   margin: 0 auto;
 }
-
-.nav-list__item:hover,
-.nav-list__item:focus,
-.contacts-list__item:hover,
-.contacts-list__item:focus,
-.footer__contacts:hover,
-.footer__contacts:focus,
-.footer__address:hover,
-.footer__address:focus {
-  color: $accent-color;
-  cursor: pointer;
-}
