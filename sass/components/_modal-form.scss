@@ -32,7 +32,7 @@
 .form__input {
   position: relative;
   margin: 0;
-  padding: 12px 15px 12px 42px;
+  padding: 10px 15px 10px 42px;
 
   border: 1px solid rgba(33, 33, 33, 0.2);
   border-radius: 4px;
@@ -62,6 +62,7 @@
   height: 120px;
   padding: 12px 16px;
   resize: none;
+  margin-bottom: 20px;
 
   outline: transparent;
   border: 1px solid rgba(33, 33, 33, 0.2);
